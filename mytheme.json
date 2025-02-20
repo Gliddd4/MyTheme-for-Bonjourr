@@ -21,7 +21,7 @@
   "syncbookmarks": null,
   "textShadow": 0,
   "announcements": "all",
-  "review": 1,
+  "review": 2,
   "css": "",
   "hide": {
     "settingsicon": true
@@ -128,8 +128,8 @@
     ]
   },
   "clock": {
-    "ampm": false,
     "size": 1.375,
+    "ampm": false,
     "analog": false,
     "seconds": false,
     "timezone": "auto",
@@ -183,8 +183,8 @@
     "last": 1740092108360
   },
   "font": {
-    "size": "13.8",
     "family": "",
+    "size": "13.8",
     "system": true,
     "weightlist": [],
     "weight": "700"
