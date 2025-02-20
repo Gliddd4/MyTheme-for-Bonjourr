@@ -1,0 +1,252 @@
+{
+  "about": {
+    "browser": "firefox",
+    "version": "20.4.2"
+  },
+  "showall": true,
+  "lang": "en",
+  "dark": "system",
+  "favicon": "",
+  "tabtitle": "",
+  "greeting": "",
+  "pagegap": 0,
+  "pagewidth": 600,
+  "time": true,
+  "main": false,
+  "dateformat": "auto",
+  "background_blur": 0,
+  "background_bright": 0.8,
+  "background_type": "local",
+  "quicklinks": false,
+  "syncbookmarks": null,
+  "textShadow": 0,
+  "announcements": "all",
+  "review": 1,
+  "css": "",
+  "hide": {
+    "settingsicon": true
+  },
+  "linkstyle": "large",
+  "linktitles": false,
+  "linkbackgrounds": false,
+  "linknewtab": false,
+  "linksrow": 6,
+  "linksehbmap": {
+    "_id": "linksehbmap",
+    "parent": "topsites",
+    "order": 1740092124989,
+    "title": "Official Apple Support",
+    "url": "https://support.apple.com/"
+  },
+  "linksdqipja": {
+    "_id": "linksdqipja",
+    "parent": "topsites",
+    "order": 1740092124989,
+    "title": "e at DuckDuckGo",
+    "url": "https://duckduckgo.com/?t=ffab&q=e&atb=v470-2"
+  },
+  "linkskbjgje": {
+    "_id": "linkskbjgje",
+    "parent": "topsites",
+    "order": 1740092124989,
+    "title": "Remove Comments Online - Almost Any Language!",
+    "url": "https://www.removecomments.com/"
+  },
+  "linksjckkkm": {
+    "_id": "linksjckkkm",
+    "parent": "topsites",
+    "order": 1740092124989,
+    "title": "Add-ons for Firefox (en-US)",
+    "url": "https://addons.mozilla.org/en-US/firefox/"
+  },
+  "linkslmkrql": {
+    "_id": "linkslmkrql",
+    "parent": "topsites",
+    "order": 1740092124989,
+    "title": "• Discord | Friends",
+    "url": "https://discord.com/channels/@me"
+  },
+  "linksobfhkk": {
+    "_id": "linksobfhkk",
+    "parent": "topsites",
+    "order": 1740092124989,
+    "title": "SideStore",
+    "url": "https://sidestore.io/"
+  },
+  "linksabpdra": {
+    "_id": "linksabpdra",
+    "parent": "topsites",
+    "order": 1740092124989,
+    "title": "MEGA",
+    "url": "https://mega.nz/"
+  },
+  "linksnoncnc": {
+    "_id": "linksnoncnc",
+    "parent": "topsites",
+    "order": 1740092124989,
+    "title": "how to create a configuration profile for ios app - Google Searc",
+    "url": "https://google.com"
+  },
+  "linksgbhkgi": {
+    "_id": "linksgbhkgi",
+    "parent": "topsites",
+    "order": 1740092124989,
+    "title": "Redirecting...",
+    "url": "https://viroteam-production-4309568340968.up.railway.app/tier2redirect?userId=1274094075590479952"
+  },
+  "linkserdhoa": {
+    "_id": "linkserdhoa",
+    "parent": "topsites",
+    "order": 1740092124989,
+    "title": "Reddit - Dive into anything",
+    "url": "https://www.reddit.com/"
+  },
+  "linkskfhcih": {
+    "_id": "linkskfhcih",
+    "parent": "topsites",
+    "order": 1740092124989,
+    "title": "leminlimez/Nugget: Unlock the fullest potential of your device",
+    "url": "https://github.com/leminlimez/Nugget"
+  },
+  "linksapkrmm": {
+    "_id": "linksapkrmm",
+    "parent": "topsites",
+    "order": 1740092124989,
+    "title": "Configuration profiles for iOS devices - YouTube",
+    "url": "https://www.youtube.com/watch?v=OU_3rzcea6A"
+  },
+  "linkgroups": {
+    "on": false,
+    "selected": "topsites",
+    "groups": [
+      "default",
+      "topsites"
+    ],
+    "pinned": [],
+    "synced": [
+      "topsites"
+    ]
+  },
+  "clock": {
+    "ampm": false,
+    "size": 1.375,
+    "analog": false,
+    "seconds": false,
+    "timezone": "auto",
+    "ampmlabel": false,
+    "worldclocks": false
+  },
+  "analogstyle": {
+    "face": "none",
+    "hands": "modern",
+    "shape": "round",
+    "border": "#ffff",
+    "background": "#fff2"
+  },
+  "worldclocks": [],
+  "unsplash": {
+    "every": "hour",
+    "collection": "",
+    "lastCollec": "evening",
+    "time": 1740092108479
+  },
+  "weather": {
+    "unit": "metric",
+    "provider": "",
+    "moreinfo": "none",
+    "forecast": "auto",
+    "temperature": "actual",
+    "geolocation": "approximate",
+    "city": "ruskin"
+  },
+  "notes": {
+    "on": false,
+    "width": 40,
+    "opacity": 0.1,
+    "align": "left"
+  },
+  "searchbar": {
+    "on": true,
+    "width": 40,
+    "opacity": 0.1,
+    "newtab": true,
+    "suggestions": true,
+    "engine": "ddg",
+    "request": "",
+    "placeholder": "Search"
+  },
+  "quotes": {
+    "on": false,
+    "author": false,
+    "type": "classic",
+    "frequency": "day",
+    "last": 1740092108360
+  },
+  "font": {
+    "size": "13.8",
+    "family": "",
+    "system": true,
+    "weightlist": [],
+    "weight": "700"
+  },
+  "supporters": {
+    "enabled": true,
+    "closed": true,
+    "month": 2
+  },
+  "move": {
+    "selection": "single",
+    "layouts": {
+      "single": {
+        "items": {
+          "time": {
+            "box": "end center",
+            "text": "center"
+          },
+          "quicklinks": {
+            "box": "center baseline",
+            "text": "center"
+          },
+          "searchbar": {
+            "box": "baseline center",
+            "text": "center"
+          }
+        },
+        "grid": [
+          [
+            "time"
+          ],
+          [
+            "searchbar"
+          ]
+        ]
+      },
+      "double": {
+        "items": {
+          "time": {
+            "box": "center",
+            "text": ""
+          },
+          "main": {
+            "box": "baseline center",
+            "text": ""
+          },
+          "quicklinks": {
+            "box": "center",
+            "text": ""
+          }
+        },
+        "grid": [
+          [
+            "time",
+            "time"
+          ],
+          [
+            "searchbar",
+            "."
+          ]
+        ]
+      }
+    }
+  }
+}
